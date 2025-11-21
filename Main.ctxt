@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Entrada()
+comment10.params=
+comment10.target=java.util.List\ getExtras()
+comment11.params=
+comment11.target=java.lang.String\ mostrarDetalles()
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=pelicula
+comment2.target=void\ setPelicula(java.lang.String)
+comment3.params=sala
+comment3.target=void\ setSala(java.lang.String)
+comment4.params=asiento
+comment4.target=void\ setAsiento(java.lang.String)
+comment5.params=horario
+comment5.target=void\ setHorario(java.lang.String)
+comment6.params=tipoEntrada
+comment6.target=void\ setTipo(java.lang.String)
+comment7.params=precioBase
+comment7.target=void\ setPrecio(double)
+comment8.params=extra
+comment8.target=void\ agregarExtra(java.lang.String)
+comment9.params=
+comment9.target=double\ getPrecioBase()
+numComments=13
